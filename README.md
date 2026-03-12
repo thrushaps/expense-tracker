@@ -1,2 +1,6 @@
 # expense-tracker
-A Simple expense tracker application built using python, HTML and CSS.
+This is a simple expense tracker application built using HTML, CSS and Python.
+Features:
+- Add expenses
+- Track daily spending
+- Simple user interface
